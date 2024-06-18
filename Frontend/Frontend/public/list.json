@@ -1,0 +1,221 @@
+[
+    {
+        "id":1,
+        "name": "Gulliver's Travels",
+        "title": "Satirical novel of the adventures of Gulliver, by Jonathan Swift.",
+        "price": 399,
+        "type": "Fiction",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":2,
+        "name": "To Kill a Mockingbirs",
+        "title": "A powerful tale of racial injustice, by Harper Lee.",
+        "price": 799,
+        "type": "Fiction",
+        "category": "NEW",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":3,
+        "name": "History of Humankind",
+        "title": "A journey through human evolution and history, by Yuval Noah Harari.",
+        "price": 499,
+        "type": "Non-fiction",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":4,
+        "name": "The Great Gatsby",
+        "title": "A classic novel of the American Dream, by  F. Scott Fitzgerald.",
+        "price": 299,
+        "type": "Classic Literature",
+        "category": "NEW",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":5,
+        "name": "The Catcher in the Rye",
+        "title": "A story of teenage rebellion and angst, by J.D.Salinger.",
+        "price": 299,
+        "type": "Fiction",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":6,
+        "name": "Becoming",
+        "title": "Michelle Obama's inspiring memoir.",
+        "price": 999,
+        "type": "Biography",
+        "category": "NEW",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":7,
+        "name": " The Hobbit",
+        "title": "A fantasy adventure in Middle-earth, by J.R.R. Tolkien.",
+        "price": 499,
+        "type": "Fantasy",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":8,
+        "name": "Cosmos",
+        "title": "Carl Sagan's exploration of the universe.",
+        "price": 799,
+        "type": "Science",
+        "category": "NEW",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":9,
+        "name": "The Alchemist",
+        "title": "A magical story about following your dreams, by Paulo Coelho",
+        "price": 399,
+        "type": "Fiction",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":10,
+        "name": "1984",
+        "title": "A dystopian novel about totalitarianism and surveillance, by George Orwell.",
+        "price": 299,
+        "type": "Classic Literature",
+        "category": "NEW",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":11,
+        "name": "The Fault in Our Stars",
+        "title": "A touching story about two teens with cancer, by John Green.",
+        "price": 399,
+        "type": "Fiction",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":12,
+        "name": "Gulliver's Travels",
+        "title": "Satirical novel of the adventures of Gulliver, by Jonathan Swift.",
+        "price": 399,
+        "type": "Fiction",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":13,
+        "name": "To Kill a Mockingbirs",
+        "title": "A powerful tale of racial injustice, by Harper Lee.",
+        "price": 799,
+        "type": "Fiction",
+        "category": "NEW",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":14,
+        "name": "History of Humankind",
+        "title": "A journey through human evolution and history, by Yuval Noah Harari.",
+        "price": 499,
+        "type": "Non-fiction",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":15,
+        "name": "The Great Gatsby",
+        "title": "A classic novel of the American Dream, by  F. Scott Fitzgerald.",
+        "price": 299,
+        "type": "Classic Literature",
+        "category": "NEW",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":16,
+        "name": "The Catcher in the Rye",
+        "title": "A story of teenage rebellion and angst, by J.D.Salinger.",
+        "price": 299,
+        "type": "Fiction",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":17,
+        "name": "Becoming",
+        "title": "Michelle Obama's inspiring memoir.",
+        "price": 999,
+        "type": "Biography",
+        "category": "NEW",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":18,
+        "name": " The Hobbit",
+        "title": "A fantasy adventure in Middle-earth, by J.R.R. Tolkien.",
+        "price": 499,
+        "type": "Fantasy",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":19,
+        "name": "Cosmos",
+        "title": "Carl Sagan's exploration of the universe.",
+        "price": 799,
+        "type": "Science",
+        "category": "NEW",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":20,
+        "name": "The Alchemist",
+        "title": "A magical story about following your dreams, by Paulo Coelho",
+        "price": 399,
+        "type": "Fiction",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":21,
+        "name": "1984",
+        "title": "A dystopian novel about totalitarianism and surveillance, by George Orwell.",
+        "price": 299,
+        "type": "Classic Literature",
+        "category": "NEW",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    },
+
+    {
+        "id":22,
+        "name": "The Fault in Our Stars",
+        "title": "A touching story about two teens with cancer, by John Green.",
+        "price": 399,
+        "type": "Fiction",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718648911~exp=1718652511~hmac=5a2c2b7322d6e0ce83e0b9d33f193c5b13b3782163c57dd4b7a477b7e1169a8c&w=740"
+    }
+]
